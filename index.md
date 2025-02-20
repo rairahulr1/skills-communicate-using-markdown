@@ -10,5 +10,5 @@
 $text="Practicing Markdown. and using code block with php formating."
 ```
 ##### Task List
-- [*] added task list
+- [x] added task list
 - [ ] pending task

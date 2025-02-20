@@ -3,3 +3,9 @@
 ### Heading 4
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+``` php
+<?php
+$text="Practicing Markdown. and using code block with php formating."
+```
